@@ -26,7 +26,6 @@
 
 
 [![Linkedin: ArslanKhan](https://img.shields.io/badge/-arslankhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-arslan-khan/)](https://pk.linkedin.com/in/muhammad-arslan-khan)
-[![GitHub codingwithtashi](https://img.shields.io/github/followers/MuhammamdArslanKhan?label=follow&style=social)](https://github.com/MuhammamdArslanKhan)
 
 
 
